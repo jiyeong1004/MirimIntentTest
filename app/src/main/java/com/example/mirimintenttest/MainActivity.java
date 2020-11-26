@@ -12,7 +12,6 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     EditText input1, input2;
-    Button btn_result;
     RadioGroup rg;
 
     @Override
